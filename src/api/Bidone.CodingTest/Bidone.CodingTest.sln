@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidone.CodingTest.Api", "Bidone.CodingTest.Api\Bidone.CodingTest.Api.csproj", "{0B9EA34B-F9A4-4AEB-A5B8-0A47CA969F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidone.CodingTest.Application", "Bidone.CodingTest.Application\Bidone.CodingTest.Application.csproj", "{E68A53B1-B3D7-400E-97DA-6B00707BEF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidone.CodingTest.Domain", "Bidone.CodingTest.Domain\Bidone.CodingTest.Domain.csproj", "{FF0D4236-BAF2-42F1-8460-61FFD079B752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidone.CodingTest.Tests", "Bidone.CodingTest.Tests\Bidone.CodingTest.Tests.csproj", "{35998741-0EA7-41AE-8493-91B8C3187053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidone.CodingTest.Infrastructure", "Bidone.CodingTest.Infrastructure\Bidone.CodingTest.Infrastructure.csproj", "{6E65DE1E-C535-4667-8725-0E7E3E3E37DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9EA34B-F9A4-4AEB-A5B8-0A47CA969F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9EA34B-F9A4-4AEB-A5B8-0A47CA969F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9EA34B-F9A4-4AEB-A5B8-0A47CA969F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9EA34B-F9A4-4AEB-A5B8-0A47CA969F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68A53B1-B3D7-400E-97DA-6B00707BEF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68A53B1-B3D7-400E-97DA-6B00707BEF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68A53B1-B3D7-400E-97DA-6B00707BEF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68A53B1-B3D7-400E-97DA-6B00707BEF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0D4236-BAF2-42F1-8460-61FFD079B752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0D4236-BAF2-42F1-8460-61FFD079B752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0D4236-BAF2-42F1-8460-61FFD079B752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0D4236-BAF2-42F1-8460-61FFD079B752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35998741-0EA7-41AE-8493-91B8C3187053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35998741-0EA7-41AE-8493-91B8C3187053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35998741-0EA7-41AE-8493-91B8C3187053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35998741-0EA7-41AE-8493-91B8C3187053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E65DE1E-C535-4667-8725-0E7E3E3E37DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E65DE1E-C535-4667-8725-0E7E3E3E37DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E65DE1E-C535-4667-8725-0E7E3E3E37DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E65DE1E-C535-4667-8725-0E7E3E3E37DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB8103A-468E-4B14-8C0F-4AF3403B356D}
+	EndGlobalSection
+EndGlobal
